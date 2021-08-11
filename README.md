@@ -1,7 +1,11 @@
 ### Hello World, I´m Alex 👋
 
-##### 🔭 I’m currently working on Mediamarkt as Front End Developer.
-##### 🌱 I’m currently learning Typescript, Graphql, JS Test Jest and MongoDB.
+##### 🔭 I’m currently working on __Mediamarkt__ as __Front End Developer__.
+##### 🌱 I’m currently learning: 
+  * Typescript.
+  * Graphql.
+  * JS Testing with Jest. 
+  * MongoDB.
 ##### 🏡 Living in Barcelona, Spain.
 
 <!--
