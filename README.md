@@ -1,8 +1,8 @@
 ### Hello World, I´m Alex 👋
 
-##🔭 I’m currently working on Mediamarkt as Front End Developer.
-##🌱 I’m currently learning Typescript, Graphql, JS Test Jest and MongoDB.
-##🏡 Living in Barcelona, Spain.
+## 🔭 I’m currently working on Mediamarkt as Front End Developer.
+## 🌱 I’m currently learning Typescript, Graphql, JS Test Jest and MongoDB.
+## 🏡 Living in Barcelona, Spain.
 
 <!--
 **fernandezAlex/fernandezAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
