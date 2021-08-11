@@ -1,12 +1,12 @@
-### Hello World, I´m Alex 👋
+## Hello World, I´m Alex 👋
 
-##### 🔭 I’m currently working on __Mediamarkt__ as __Front End Developer__.
-##### 🌱 I’m currently learning: 
+#### 🔭 I’m currently working on __Mediamarkt__ as __Front End Developer__.
+#### 🌱 I’m currently learning: 
   * Typescript.
   * Graphql.
   * JS Testing with Jest. 
   * MongoDB.
-##### 🏡 Living in Barcelona, Spain.
+#### 🏡 Living in Barcelona, Spain.
 
 <!--
 **fernandezAlex/fernandezAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
