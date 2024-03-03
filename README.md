@@ -1,7 +1,7 @@
 ## Hello World, I´m Alex 👋
 
-#### 🔭 I’m currently working on __Mediamarkt__ as __Front End Developer__.
-#### 🌱 I’m currently learning: 
+#### 🔭 I’m currently working on __Travelport__ as __Software Engineer__.
+#### 🌱 I’m currently improving this skills: 
   * Typescript.
   * Graphql.
   * JS Testing with Jest. 
