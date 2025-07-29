@@ -19,7 +19,7 @@
 
 **Tecnologías que utilizo frecuentemente:**
 
-- **Lenguajes & Frameworks**: JavaScript · TypeScript · React · Node.js · PHP · WordPress · Jest · Contract Testing ·	Playwright · API Rest
+- **Lenguajes & Frameworks**: JavaScript · TypeScript · React · Node.js · PHP · WordPress · Jest · Contract Testing · API Rest
 - **Front‑end y CSS**: HTML5 · CSS3 · Tailwind · SASS · diseño UI/UX con Figma
 - **Bases de datos**: MongoDB · SQL (PostgreSQL/MySQL)  
 - **DevOps & CI/CD**: Git · GitHub · GitHub Actions · Docker · AWS  
