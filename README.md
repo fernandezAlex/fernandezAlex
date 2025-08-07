@@ -1,6 +1,6 @@
 # 👋 Hola, soy Alex Fernández
 
-**Desarrollador Front End** creativo y orientado a resultados integrales que abarca desde el diseño UI/UX hasta la infraestructura y la automatización. Desarrollo soluciones digitales, optimizo la experiencia de usuario de forma eficiente. Me apasiona aplicar la tecnología para impulsar el crecimiento empresarial, combinando diseño visual e innovación tecnológica como la IA.
+**Desarrollador Front End** creativo y orientado a resultados integrales que abarca desde el diseño UI/UX hasta la infraestructura y la automatización. Desarrollo soluciones digitales y optimizo la experiencia de usuario de forma eficiente. Me apasiona aplicar la tecnología para impulsar el crecimiento empresarial, combinando diseño visual e innovación tecnológica como la IA.
 
 <div align="center">
 
